@@ -6,30 +6,30 @@ Welcome to the MongoDB and Mongoose learning repository! This repository contain
 
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
-   - [Installation](installation.md)
+   - [Installation](docs/installation.md)
    - [Basic Operations](docs/mongodb/basic-operations.md)
-   - [Schema and Models](mongoose/schema-models.md)
+   - [Schema and Models](docs/mongoose/schema-models.md)
 3. [MongoDB](#mongodb)
-   - [Introduction](mongodb/introduction.md)
-   - [Basic Operations](mongodb/basic-operations.md)
-   - [Aggregation Framework](mongodb/aggregation-framework.md)
-   - [Indexing](mongodb/indexing.md)
-   - [Transactions](mongodb/transactions.md)
+   - [Introduction](docs/mongodb/introduction.md)
+   - [Basic Operations](docs/mongodb/basic-operations.md)
+   - [Aggregation Framework](docs/mongodb/aggregation-framework.md)
+   - [Indexing](docs/mongodb/indexing.md)
+   - [Transactions](docs/mongodb/transactions.md)
 4. [Mongoose](#mongoose)
-   - [Introduction](mongoose/introduction.md)
-   - [Querying](mongoose/querying.md)
-   - [Middleware](mongoose/middleware.md)
-   - [Population](mongoose/population.md)
-   - [Validation](mongoose/validation.md)
+   - [Introduction](docs/mongoose/introduction.md)
+   - [Querying](docs/mongoose/querying.md)
+   - [Middleware](docs/mongoose/middleware.md)
+   - [Population](docs/mongoose/population.md)
+   - [Validation](docs/mongoose/validation.md)
 5. [Examples](#examples)
-   - [Basic CRUD](examples/basic-crud.md)
-   - [Mongoose with Express](examples/mongoose-express.md)
+   - [Basic CRUD](docs/examples/basic-crud.md)
+   - [Mongoose with Express](docs/examples/mongoose-express.md)
 6. [FAQ](#faq)
-   - [Common Issues](faq/common-issues.md)
-   - [Troubleshooting](faq/troubleshooting.md)
+   - [Common Issues](docs/faq/common-issues.md)
+   - [Troubleshooting](docs/faq/troubleshooting.md)
 7. [References](#references)
-   - [Official Documentation](references/official-documentation.md)
-   - [Additional Resources](references/additional-resources.md)
+   - [Official Documentation](docs/references/official-documentation.md)
+   - [Additional Resources](docs/references/additional-resources.md)
 
 ## Introduction
 
@@ -39,15 +39,15 @@ This section provides a brief overview of MongoDB and Mongoose, explaining their
 
 To start learning MongoDB and Mongoose, follow these steps:
 
-### [Installation](installation.md)
+### [Installation](docs/installation.md)
 
 Learn how to install MongoDB and Mongoose on your system.
 
-### [Basic Operations](mongodb/basic-operations.md)
+### [Basic Operations](docs/mongodb/basic-operations.md)
 
 Get hands-on experience with basic CRUD operations in MongoDB.
 
-### [Schema and Models](mongoose/schema-models.md)
+### [Schema and Models](docs/mongoose/schema-models.md)
 
 Understand the concept of schemas and models in Mongoose.
 
@@ -55,23 +55,23 @@ Understand the concept of schemas and models in Mongoose.
 
 MongoDB is a NoSQL database that provides high performance, high availability, and easy scalability.
 
-### [Introduction](mongodb/introduction.md)
+### [Introduction](docs/mongodb/introduction.md)
 
 Learn about MongoDB's key features and use cases.
 
-### [Basic Operations](mongodb/basic-operations.md)
+### [Basic Operations](docs/mongodb/basic-operations.md)
 
 Dive into the basics of CRUD operations in MongoDB.
 
-### [Aggregation Framework](mongodb/aggregation-framework.md)
+### [Aggregation Framework](docs/mongodb/aggregation-framework.md)
 
 Explore MongoDB's powerful aggregation framework for data processing.
 
-### [Indexing](mongodb/indexing.md)
+### [Indexing](docs/mongodb/indexing.md)
 
 Understand how to optimize query performance with indexing in MongoDB.
 
-### [Transactions](mongodb/transactions.md)
+### [Transactions](docs/mongodb/transactions.md)
 
 Discover how to use transactions in MongoDB for data consistency.
 
@@ -79,23 +79,23 @@ Discover how to use transactions in MongoDB for data consistency.
 
 Mongoose is an elegant MongoDB object modeling tool designed for Node.js.
 
-### [Introduction](mongoose/introduction.md)
+### [Introduction](docs/mongoose/introduction.md)
 
 Learn the basics of Mongoose and how it simplifies MongoDB interactions.
 
-### [Querying](mongoose/querying.md)
+### [Querying](docs/mongoose/querying.md)
 
 Master the art of querying data using Mongoose.
 
-### [Middleware](mongoose/middleware.md)
+### [Middleware](docs/mongoose/middleware.md)
 
 Explore Mongoose middleware for intercepting model actions.
 
-### [Population](mongoose/population.md)
+### [Population](docs/mongoose/population.md)
 
 Understand Mongoose population for linking documents.
 
-### [Validation](mongoose/validation.md)
+### [Validation](docs/mongoose/validation.md)
 
 Learn how to enforce data validation using Mongoose.
 
@@ -103,11 +103,11 @@ Learn how to enforce data validation using Mongoose.
 
 Explore practical examples to solidify your understanding of MongoDB and Mongoose.
 
-### [Basic CRUD](examples/basic-crud.md)
+### [Basic CRUD](docs/examples/basic-crud.md)
 
 A step-by-step guide to performing basic CRUD operations.
 
-### [Mongoose with Express](examples/mongoose-express.md)
+### [Mongoose with Express](docs/examples/mongoose-express.md)
 
 Integrate Mongoose with Express to build robust applications.
 
@@ -115,11 +115,11 @@ Integrate Mongoose with Express to build robust applications.
 
 Find answers to common questions and troubleshoot common issues.
 
-### [Common Issues](faq/common-issues.md)
+### [Common Issues](docs/faq/common-issues.md)
 
 Address common problems users might encounter.
 
-### [Troubleshooting](faq/troubleshooting.md)
+### [Troubleshooting](docs/faq/troubleshooting.md)
 
 A guide to troubleshooting MongoDB and Mongoose issues.
 
@@ -127,11 +127,11 @@ A guide to troubleshooting MongoDB and Mongoose issues.
 
 Additional resources for further exploration.
 
-### [Official Documentation](references/official-documentation.md)
+### [Official Documentation](docs/references/official-documentation.md)
 
 Links to the official documentation for MongoDB and Mongoose.
 
-### [Additional Resources](references/additional-resources.md)
+### [Additional Resources](docs/references/additional-resources.md)
 
 Curated list of additional learning resources.
 
