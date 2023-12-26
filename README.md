@@ -7,7 +7,7 @@ Welcome to the MongoDB and Mongoose learning repository! This repository contain
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
    - [Installation](installation.md)
-   - [Basic Operations](mongodb/basic-operations.md)
+   - [Basic Operations](docs/mongodb/basic-operations.md)
    - [Schema and Models](mongoose/schema-models.md)
 3. [MongoDB](#mongodb)
    - [Introduction](mongodb/introduction.md)
